@@ -1,6 +1,6 @@
 # Hi, I'm Tae 🤙🏾
 
-## I'm a all around developer, Pc lover, & fan boy of cod games!!
+## I'm a all around developer, Pc lover, & fan boy of cod games!
 
 
 Welcome to my extra resume where you can see more of my projects and me 😉
