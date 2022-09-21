@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤙🏾, I'm Tae</h1>
-<h3 align="center">I'm a all around developer, Pc lover, & fan boy of cod games!</h3>
+<h3 align="center">I'm a developer that's loves to code a'lot, Pc lover, & fan boy of cod games!</h3>
 
 <p align="left"> <a href="https://twitter.com/allupfortae" target="blank"><img src="https://img.shields.io/twitter/follow/allupfortae?logo=twitter&style=for-the-badge" alt="allupfortae" /></a> </p>
 
