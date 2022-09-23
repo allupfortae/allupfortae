@@ -1,4 +1,4 @@
-<img src="" />
+<img src="file:///Users/du/Downloads/vibes2.jpeg" />
 <h1 align="center">Hi 🤙🏾, I'm Tae</h1>
 <h3 align="center">I'm a developer that's loves to code a'lot, Pc lover, & fan boy of cod games!</h3>
 
