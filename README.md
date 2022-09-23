@@ -8,11 +8,7 @@
 
 - 🌱 I’m currently learning **how to use figma, how to draw & how to edit**
 
-- 🤝 I’m looking **to try and get into as much hackathons as possible atleats have one decents project with others developers**
-
 - 💬 Ask me about **my projects and anything else you will like to know**
-
-- 📫 How to reach me **avantaejacksoncontact@gmail.com**
 
 - 📝 Check out my fiverr and see what other say about my work
 <a href='https://www.fiverr.com/users/taetech/gigs'>Fiverr</a>
