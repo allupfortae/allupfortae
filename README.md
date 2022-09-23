@@ -32,8 +32,25 @@
 <p>Currently nonr at the moment<p>
 
 
-<h3>My running projects:</h3>
-<p>Currently none at the moment</p>
+<h1>Done projects:</h1>
+<div>
+<h3>Email</h3>
+<div align='left'>
+<p><a href=''>Email temmplate</a> <a href=''>Check code </a></p>
+
+<p><a href=''>Email temmplate</a> <a href=''>Check code </a></p>
+<p><a href=''>Email temmplate</a> <a href=''>Check code </a></p>
+<p><a href=''>Email temmplate</a> <a href=''>Check code </a></p>
+</div>
+</div>
+
+<div>
+<h3>WEB3</h3>
+</div>
+
+<div>
+<h3>WEB2</h>
+</div>
 
 
 
