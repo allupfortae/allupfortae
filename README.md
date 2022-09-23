@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/allupfortae" target="blank"><img src="https://img.shields.io/twitter/follow/allupfortae?logo=twitter&style=for-the-badge" alt="allupfortae" /></a> </p>
 
-- 🔭 I’m currently working on **N/A**
+- 🔭 I’m currently working on Messaging app in the blockchain
 
 - 🌱 I’m currently learning **how to use figma, how to draw & how to edit**
 
