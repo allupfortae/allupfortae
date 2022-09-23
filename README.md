@@ -47,15 +47,9 @@
 <div>
 <h3>WEB3</h3>
 </div>
-
 <div>
 <h3>WEB2</h>
 </div>
-
-
-
-
-
 <h3>🧑🏾‍💻 My Stats:</h3>
 <div align="center">
 
@@ -63,6 +57,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allupfortae&theme=dark" alt="allupfortae" /></p>
  </div>
-
-
-
