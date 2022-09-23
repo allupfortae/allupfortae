@@ -1,6 +1,6 @@
 <!-- <img src="file:///Users/du/Downloads/vibes2.jpeg" width='100%' height='200px'/> -->
 <h1 align="center">Hi 🤙🏾, I'm Tae</h1>
-<h3 align="center">I'm a developer that's loves to code a'lot, Pc lover, & fan boy of cod games!</h3>
+<h3 align="center">I'm a full stack developer that's loves to code a'lot & refactoring code, Pc lover, & fan boy of cod games!</h3>
 
 <p align="left"> <a href="https://twitter.com/allupfortae" target="blank"><img src="https://img.shields.io/twitter/follow/allupfortae?logo=twitter&style=for-the-badge" alt="allupfortae" /></a> </p>
 
