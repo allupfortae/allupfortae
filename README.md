@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤙🏾, I'm Tae</h1>
-<h3 align="center">I'm a full stack developer that's loves to code a'lot & refactoring code</h3>
+<h3 align="center">I'm a full stack developer that's loves to code a'lot & to refactoring code</h3>
 
 - 🔭 I’m currently working on Messaging app in the blockchain
 
