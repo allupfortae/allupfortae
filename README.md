@@ -32,8 +32,8 @@
 </div>
 
 
-<h3>My top 3 projects:</h3>
-<p>Currently none at the moment<p>
+<!-- <h3>My top 3 projects:</h3>
+<p>Currently none at the moment<p> -->
 <h1>🧑🏾‍💻 My Stats:</h1>
 <div align="center">
 
