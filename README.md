@@ -34,7 +34,7 @@
 <h1>Smart Contracts:</h1>
 <div>
 <div align='left'>
-<p>Messaging App contract <a href='https://github.com/allupfortae/Messaging'>Check code </a></p>
+<p>Messaging App contract <a href='https://github.com/allupfortae/Message-dapp-contract'>Check code</a></p>
 <p>Contracts <a href=''>Check code </a></p>
 <p>Contracts <a href=''>Check code </a></p>
 <p>Contracts <a href=''>Check code </a></p>
