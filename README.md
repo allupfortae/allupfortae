@@ -24,10 +24,10 @@
 <h1>Done projects:</h1>
 <div>
 <div align='left'>
-<p>Email template <a href=''>Email temmplate</a> <a href=''>Check code </a></p>
-<p>Email template <a href=''>Email temmplate</a> <a href=''>Check code </a></p>
-<p>Email template <a href=''>Email temmplate</a> <a href=''>Check code </a></p>
-<p>Email template <a href=''>Email temmplate</a> <a href=''>Check code </a></p>
+<p>Email template  <a href=''>Check code </a></p>
+<p>Email template  <a href=''>Check code </a></p>
+<p>Email template  <a href=''>Check code </a></p>
+<p>Email template  <a href=''>Check code </a></p>
 </div>
 </div>
 
