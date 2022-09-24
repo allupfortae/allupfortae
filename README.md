@@ -24,7 +24,7 @@
 <h1>Done projects:</h1>
 <div>
 <div align='left'>
-<p>Email template  <a href=''>Check code </a></p>
+<p>Blockquiq Email <a href='https://github.com/allupfortae/Blockquiq-Email'>Check code </a></p>
 <p>Email template  <a href=''>Check code </a></p>
 <p>Email template  <a href=''>Check code </a></p>
 <p>Email template  <a href=''>Check code </a></p>
